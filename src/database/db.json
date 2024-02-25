@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "What is React Js",
+      "author": "Kyaw Ko Ko Zin",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo ducimus animi, ex sit perspiciatis tenetur fugit nisi sed nobis! Officia nesciunt ullam a, incidunt dolore numquam ducimus accusamus? Tenetur esse in maiores labore voluptatum molestias animi ipsum ratione tempora, autem pariatur recusandae aspernatur, voluptate consectetur repellendus ut, deserunt qui rerum."
+    },
+    {
+      "id": 2,
+      "title": "What is Laravel ",
+      "author": "Kyaw Ko Ko Zin",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo ducimus animi, ex sit perspiciatis tenetur fugit nisi sed nobis! Officia nesciunt ullam a, incidunt dolore numquam ducimus accusamus? Tenetur esse in maiores labore voluptatum molestias animi ipsum ratione tempora, autem pariatur recusandae aspernatur, voluptate consectetur repellendus ut, deserunt qui rerum."
+    },
+    {
+      "id": 3,
+      "title": "What is Vue Js",
+      "author": "Kyaw Ko Ko Zin",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo ducimus animi, ex sit perspiciatis tenetur fugit nisi sed nobis! Officia nesciunt ullam a, incidunt dolore numquam ducimus accusamus? Tenetur esse in maiores labore voluptatum molestias animi ipsum ratione tempora, autem pariatur recusandae aspernatur, voluptate consectetur repellendus ut, deserunt qui rerum."
+    },
+    {
+      "id": 4,
+      "title": "What is Next Js",
+      "author": "Kyaw Ko Ko Zin",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo ducimus animi, ex sit perspiciatis tenetur fugit nisi sed nobis! Officia nesciunt ullam a, incidunt dolore numquam ducimus accusamus? Tenetur esse in maiores labore voluptatum molestias animi ipsum ratione tempora, autem pariatur recusandae aspernatur, voluptate consectetur repellendus ut, deserunt qui rerum."
+    }
+  ]
+}
